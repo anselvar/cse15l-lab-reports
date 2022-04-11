@@ -1,1 +1,2 @@
-hiiiii pls work
+[Link](Lab1&2.md)
+
