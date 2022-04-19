@@ -1,6 +1,6 @@
 # Lab Report 1  
 ### 1. Downloading VSCode  
-For this step, we have to go to [visual studio code](https://code.visualstudio.com/) and download the VSCode app. After downloading your screen should look something like this:   
+For this step, we have to go  to [visual studio code](https://code.visualstudio.com/) and download the VSCode app. After downloading your screen should look something like this:   
 ![Image](vscode.png)
 
 ### 2. Remotely Connecting  
