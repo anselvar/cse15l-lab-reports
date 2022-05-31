@@ -4,11 +4,9 @@
 
 ### Our repository
 - [My Repo](https://github.com/anselvar/markdown-parser)
-- ![Image](sshlogin.png) 
 
 ### Repository to be reviewed 
 - [Their Repo](https://github.com/TheJoeship/markdown-parser-fork)
-- ![Image](sshlogin.png) 
 
 ## My Repository   
 ### Three tests in my repo
