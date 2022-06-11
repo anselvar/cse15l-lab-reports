@@ -17,7 +17,7 @@
 
 - The test file for their repo passed the test, while mine did not.
 - ![Image](193.png)   
-- This code should produce no link, but my code did not detect the lack of parentheses, and considered whatever was after the brackets as a link. 
+- This code should produce no link, but my code did not detect the lack of parentheses, and considered whatever was after the brackets as a link. Instead, it should detect that there is no actual url inside. 
 
 ## Second error   
 - [test2](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/507.md)   
@@ -28,4 +28,4 @@
 
 The test file for their repo passed the test, while mine did not.
 -![Image](507.png)
-- This code should produce no link, but instead it detects the text inside as a url when it is not. 
+- This code should produce no link, but instead it detects the text inside as a url when it is not. Instead it should detec that there are just phrases, not a url inside. 
